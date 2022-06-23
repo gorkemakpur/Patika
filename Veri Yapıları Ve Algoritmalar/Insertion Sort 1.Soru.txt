@@ -6,7 +6,7 @@
 3.Aşama: [2,6,16,18,22,27] Sıralama işlemi tamamlandı
 
 <-Bigo->
-O(n)
+O(n^2)-> O(36)
 
 <-Time Complexity->
 Best O(n)
