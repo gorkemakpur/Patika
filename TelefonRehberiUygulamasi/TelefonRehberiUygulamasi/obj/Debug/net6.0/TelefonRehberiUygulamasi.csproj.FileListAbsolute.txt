@@ -1,0 +1,15 @@
+D:\.NET-project\.NET-Calismalar\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\bin\Debug\net6.0\TelefonRehberiUygulamasi.exe
+D:\.NET-project\.NET-Calismalar\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\bin\Debug\net6.0\TelefonRehberiUygulamasi.deps.json
+D:\.NET-project\.NET-Calismalar\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\bin\Debug\net6.0\TelefonRehberiUygulamasi.runtimeconfig.json
+D:\.NET-project\.NET-Calismalar\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\bin\Debug\net6.0\TelefonRehberiUygulamasi.dll
+D:\.NET-project\.NET-Calismalar\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\bin\Debug\net6.0\TelefonRehberiUygulamasi.pdb
+D:\.NET-project\.NET-Calismalar\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net6.0\TelefonRehberiUygulamasi.csproj.AssemblyReference.cache
+D:\.NET-project\.NET-Calismalar\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net6.0\TelefonRehberiUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-project\.NET-Calismalar\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net6.0\TelefonRehberiUygulamasi.AssemblyInfoInputs.cache
+D:\.NET-project\.NET-Calismalar\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net6.0\TelefonRehberiUygulamasi.AssemblyInfo.cs
+D:\.NET-project\.NET-Calismalar\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net6.0\TelefonRehberiUygulamasi.csproj.CoreCompileInputs.cache
+D:\.NET-project\.NET-Calismalar\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net6.0\TelefonRehberiUygulamasi.dll
+D:\.NET-project\.NET-Calismalar\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net6.0\refint\TelefonRehberiUygulamasi.dll
+D:\.NET-project\.NET-Calismalar\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net6.0\TelefonRehberiUygulamasi.pdb
+D:\.NET-project\.NET-Calismalar\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net6.0\TelefonRehberiUygulamasi.genruntimeconfig.cache
+D:\.NET-project\.NET-Calismalar\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net6.0\ref\TelefonRehberiUygulamasi.dll

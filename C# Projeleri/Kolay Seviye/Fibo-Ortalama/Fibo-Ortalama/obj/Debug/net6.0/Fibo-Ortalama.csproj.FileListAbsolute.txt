@@ -1,0 +1,15 @@
+D:\.NET-project\.NET-Calismalar\Fibo-Ortalama\Fibo-Ortalama\bin\Debug\net6.0\Fibo-Ortalama.exe
+D:\.NET-project\.NET-Calismalar\Fibo-Ortalama\Fibo-Ortalama\bin\Debug\net6.0\Fibo-Ortalama.deps.json
+D:\.NET-project\.NET-Calismalar\Fibo-Ortalama\Fibo-Ortalama\bin\Debug\net6.0\Fibo-Ortalama.runtimeconfig.json
+D:\.NET-project\.NET-Calismalar\Fibo-Ortalama\Fibo-Ortalama\bin\Debug\net6.0\Fibo-Ortalama.dll
+D:\.NET-project\.NET-Calismalar\Fibo-Ortalama\Fibo-Ortalama\bin\Debug\net6.0\Fibo-Ortalama.pdb
+D:\.NET-project\.NET-Calismalar\Fibo-Ortalama\Fibo-Ortalama\obj\Debug\net6.0\Fibo-Ortalama.csproj.AssemblyReference.cache
+D:\.NET-project\.NET-Calismalar\Fibo-Ortalama\Fibo-Ortalama\obj\Debug\net6.0\Fibo-Ortalama.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-project\.NET-Calismalar\Fibo-Ortalama\Fibo-Ortalama\obj\Debug\net6.0\Fibo-Ortalama.AssemblyInfoInputs.cache
+D:\.NET-project\.NET-Calismalar\Fibo-Ortalama\Fibo-Ortalama\obj\Debug\net6.0\Fibo-Ortalama.AssemblyInfo.cs
+D:\.NET-project\.NET-Calismalar\Fibo-Ortalama\Fibo-Ortalama\obj\Debug\net6.0\Fibo-Ortalama.csproj.CoreCompileInputs.cache
+D:\.NET-project\.NET-Calismalar\Fibo-Ortalama\Fibo-Ortalama\obj\Debug\net6.0\Fibo-Ortalama.dll
+D:\.NET-project\.NET-Calismalar\Fibo-Ortalama\Fibo-Ortalama\obj\Debug\net6.0\refint\Fibo-Ortalama.dll
+D:\.NET-project\.NET-Calismalar\Fibo-Ortalama\Fibo-Ortalama\obj\Debug\net6.0\Fibo-Ortalama.pdb
+D:\.NET-project\.NET-Calismalar\Fibo-Ortalama\Fibo-Ortalama\obj\Debug\net6.0\Fibo-Ortalama.genruntimeconfig.cache
+D:\.NET-project\.NET-Calismalar\Fibo-Ortalama\Fibo-Ortalama\obj\Debug\net6.0\ref\Fibo-Ortalama.dll

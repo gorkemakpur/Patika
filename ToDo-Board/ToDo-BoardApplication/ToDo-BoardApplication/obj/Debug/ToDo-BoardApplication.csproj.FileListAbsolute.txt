@@ -1,0 +1,8 @@
+D:\.NET-project\.NET-Calismalar\ToDo-BoardApplication\ToDo-BoardApplication\bin\Debug\ToDo-BoardApplication.exe.config
+D:\.NET-project\.NET-Calismalar\ToDo-BoardApplication\ToDo-BoardApplication\bin\Debug\ToDo-BoardApplication.exe
+D:\.NET-project\.NET-Calismalar\ToDo-BoardApplication\ToDo-BoardApplication\bin\Debug\ToDo-BoardApplication.pdb
+D:\.NET-project\.NET-Calismalar\ToDo-BoardApplication\ToDo-BoardApplication\obj\Debug\ToDo-BoardApplication.csproj.AssemblyReference.cache
+D:\.NET-project\.NET-Calismalar\ToDo-BoardApplication\ToDo-BoardApplication\obj\Debug\ToDo-BoardApplication.csproj.SuggestedBindingRedirects.cache
+D:\.NET-project\.NET-Calismalar\ToDo-BoardApplication\ToDo-BoardApplication\obj\Debug\ToDo-BoardApplication.csproj.CoreCompileInputs.cache
+D:\.NET-project\.NET-Calismalar\ToDo-BoardApplication\ToDo-BoardApplication\obj\Debug\ToDo-BoardApplication.exe
+D:\.NET-project\.NET-Calismalar\ToDo-BoardApplication\ToDo-BoardApplication\obj\Debug\ToDo-BoardApplication.pdb
