@@ -1,0 +1,15 @@
+D:\.NET-project\.NET-Calismalar\Algorithm\Algorithm\bin\Debug\net6.0\Algorithm.exe
+D:\.NET-project\.NET-Calismalar\Algorithm\Algorithm\bin\Debug\net6.0\Algorithm.deps.json
+D:\.NET-project\.NET-Calismalar\Algorithm\Algorithm\bin\Debug\net6.0\Algorithm.runtimeconfig.json
+D:\.NET-project\.NET-Calismalar\Algorithm\Algorithm\bin\Debug\net6.0\Algorithm.dll
+D:\.NET-project\.NET-Calismalar\Algorithm\Algorithm\bin\Debug\net6.0\Algorithm.pdb
+D:\.NET-project\.NET-Calismalar\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.csproj.AssemblyReference.cache
+D:\.NET-project\.NET-Calismalar\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-project\.NET-Calismalar\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfoInputs.cache
+D:\.NET-project\.NET-Calismalar\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfo.cs
+D:\.NET-project\.NET-Calismalar\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.csproj.CoreCompileInputs.cache
+D:\.NET-project\.NET-Calismalar\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.dll
+D:\.NET-project\.NET-Calismalar\Algorithm\Algorithm\obj\Debug\net6.0\refint\Algorithm.dll
+D:\.NET-project\.NET-Calismalar\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.pdb
+D:\.NET-project\.NET-Calismalar\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.genruntimeconfig.cache
+D:\.NET-project\.NET-Calismalar\Algorithm\Algorithm\obj\Debug\net6.0\ref\Algorithm.dll
