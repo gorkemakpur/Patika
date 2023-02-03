@@ -1,0 +1,15 @@
+D:\.NET-project\.NET-Calismalar\Circle\Circle\bin\Debug\net6.0\Circle.exe
+D:\.NET-project\.NET-Calismalar\Circle\Circle\bin\Debug\net6.0\Circle.deps.json
+D:\.NET-project\.NET-Calismalar\Circle\Circle\bin\Debug\net6.0\Circle.runtimeconfig.json
+D:\.NET-project\.NET-Calismalar\Circle\Circle\bin\Debug\net6.0\Circle.dll
+D:\.NET-project\.NET-Calismalar\Circle\Circle\bin\Debug\net6.0\Circle.pdb
+D:\.NET-project\.NET-Calismalar\Circle\Circle\obj\Debug\net6.0\Circle.csproj.AssemblyReference.cache
+D:\.NET-project\.NET-Calismalar\Circle\Circle\obj\Debug\net6.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-project\.NET-Calismalar\Circle\Circle\obj\Debug\net6.0\Circle.AssemblyInfoInputs.cache
+D:\.NET-project\.NET-Calismalar\Circle\Circle\obj\Debug\net6.0\Circle.AssemblyInfo.cs
+D:\.NET-project\.NET-Calismalar\Circle\Circle\obj\Debug\net6.0\Circle.csproj.CoreCompileInputs.cache
+D:\.NET-project\.NET-Calismalar\Circle\Circle\obj\Debug\net6.0\Circle.dll
+D:\.NET-project\.NET-Calismalar\Circle\Circle\obj\Debug\net6.0\refint\Circle.dll
+D:\.NET-project\.NET-Calismalar\Circle\Circle\obj\Debug\net6.0\Circle.pdb
+D:\.NET-project\.NET-Calismalar\Circle\Circle\obj\Debug\net6.0\Circle.genruntimeconfig.cache
+D:\.NET-project\.NET-Calismalar\Circle\Circle\obj\Debug\net6.0\ref\Circle.dll
