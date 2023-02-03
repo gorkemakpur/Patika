@@ -1,0 +1,15 @@
+D:\.NET-project\.NET-Calismalar\TextReverse\TextReverse\bin\Debug\net6.0\TextReverse.exe
+D:\.NET-project\.NET-Calismalar\TextReverse\TextReverse\bin\Debug\net6.0\TextReverse.deps.json
+D:\.NET-project\.NET-Calismalar\TextReverse\TextReverse\bin\Debug\net6.0\TextReverse.runtimeconfig.json
+D:\.NET-project\.NET-Calismalar\TextReverse\TextReverse\bin\Debug\net6.0\TextReverse.dll
+D:\.NET-project\.NET-Calismalar\TextReverse\TextReverse\bin\Debug\net6.0\TextReverse.pdb
+D:\.NET-project\.NET-Calismalar\TextReverse\TextReverse\obj\Debug\net6.0\TextReverse.csproj.AssemblyReference.cache
+D:\.NET-project\.NET-Calismalar\TextReverse\TextReverse\obj\Debug\net6.0\TextReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-project\.NET-Calismalar\TextReverse\TextReverse\obj\Debug\net6.0\TextReverse.AssemblyInfoInputs.cache
+D:\.NET-project\.NET-Calismalar\TextReverse\TextReverse\obj\Debug\net6.0\TextReverse.AssemblyInfo.cs
+D:\.NET-project\.NET-Calismalar\TextReverse\TextReverse\obj\Debug\net6.0\TextReverse.csproj.CoreCompileInputs.cache
+D:\.NET-project\.NET-Calismalar\TextReverse\TextReverse\obj\Debug\net6.0\TextReverse.dll
+D:\.NET-project\.NET-Calismalar\TextReverse\TextReverse\obj\Debug\net6.0\refint\TextReverse.dll
+D:\.NET-project\.NET-Calismalar\TextReverse\TextReverse\obj\Debug\net6.0\TextReverse.pdb
+D:\.NET-project\.NET-Calismalar\TextReverse\TextReverse\obj\Debug\net6.0\TextReverse.genruntimeconfig.cache
+D:\.NET-project\.NET-Calismalar\TextReverse\TextReverse\obj\Debug\net6.0\ref\TextReverse.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReverse", "TextReverse\TextReverse.csproj", "{30FBBE10-E369-48E9-A0BF-F0202A25FABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30FBBE10-E369-48E9-A0BF-F0202A25FABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FBBE10-E369-48E9-A0BF-F0202A25FABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FBBE10-E369-48E9-A0BF-F0202A25FABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FBBE10-E369-48E9-A0BF-F0202A25FABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D85050E3-EA70-4AB2-BDDA-D5F59DF22EAE}
+	EndGlobalSection
+EndGlobal
