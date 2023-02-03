@@ -1,0 +1,15 @@
+D:\.NET-project\.NET-Calismalar\Triangle\Triangle\bin\Debug\net6.0\Triangle.exe
+D:\.NET-project\.NET-Calismalar\Triangle\Triangle\bin\Debug\net6.0\Triangle.deps.json
+D:\.NET-project\.NET-Calismalar\Triangle\Triangle\bin\Debug\net6.0\Triangle.runtimeconfig.json
+D:\.NET-project\.NET-Calismalar\Triangle\Triangle\bin\Debug\net6.0\Triangle.dll
+D:\.NET-project\.NET-Calismalar\Triangle\Triangle\bin\Debug\net6.0\Triangle.pdb
+D:\.NET-project\.NET-Calismalar\Triangle\Triangle\obj\Debug\net6.0\Triangle.csproj.AssemblyReference.cache
+D:\.NET-project\.NET-Calismalar\Triangle\Triangle\obj\Debug\net6.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-project\.NET-Calismalar\Triangle\Triangle\obj\Debug\net6.0\Triangle.AssemblyInfoInputs.cache
+D:\.NET-project\.NET-Calismalar\Triangle\Triangle\obj\Debug\net6.0\Triangle.AssemblyInfo.cs
+D:\.NET-project\.NET-Calismalar\Triangle\Triangle\obj\Debug\net6.0\Triangle.csproj.CoreCompileInputs.cache
+D:\.NET-project\.NET-Calismalar\Triangle\Triangle\obj\Debug\net6.0\Triangle.dll
+D:\.NET-project\.NET-Calismalar\Triangle\Triangle\obj\Debug\net6.0\refint\Triangle.dll
+D:\.NET-project\.NET-Calismalar\Triangle\Triangle\obj\Debug\net6.0\Triangle.pdb
+D:\.NET-project\.NET-Calismalar\Triangle\Triangle\obj\Debug\net6.0\Triangle.genruntimeconfig.cache
+D:\.NET-project\.NET-Calismalar\Triangle\Triangle\obj\Debug\net6.0\ref\Triangle.dll
