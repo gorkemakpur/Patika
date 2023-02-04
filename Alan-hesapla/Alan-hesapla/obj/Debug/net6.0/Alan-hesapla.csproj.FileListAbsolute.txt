@@ -1,0 +1,15 @@
+D:\.NET-project\.NET-Calismalar\Alan-hesapla\Alan-hesapla\bin\Debug\net6.0\Alan-hesapla.exe
+D:\.NET-project\.NET-Calismalar\Alan-hesapla\Alan-hesapla\bin\Debug\net6.0\Alan-hesapla.deps.json
+D:\.NET-project\.NET-Calismalar\Alan-hesapla\Alan-hesapla\bin\Debug\net6.0\Alan-hesapla.runtimeconfig.json
+D:\.NET-project\.NET-Calismalar\Alan-hesapla\Alan-hesapla\bin\Debug\net6.0\Alan-hesapla.dll
+D:\.NET-project\.NET-Calismalar\Alan-hesapla\Alan-hesapla\bin\Debug\net6.0\Alan-hesapla.pdb
+D:\.NET-project\.NET-Calismalar\Alan-hesapla\Alan-hesapla\obj\Debug\net6.0\Alan-hesapla.csproj.AssemblyReference.cache
+D:\.NET-project\.NET-Calismalar\Alan-hesapla\Alan-hesapla\obj\Debug\net6.0\Alan-hesapla.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-project\.NET-Calismalar\Alan-hesapla\Alan-hesapla\obj\Debug\net6.0\Alan-hesapla.AssemblyInfoInputs.cache
+D:\.NET-project\.NET-Calismalar\Alan-hesapla\Alan-hesapla\obj\Debug\net6.0\Alan-hesapla.AssemblyInfo.cs
+D:\.NET-project\.NET-Calismalar\Alan-hesapla\Alan-hesapla\obj\Debug\net6.0\Alan-hesapla.csproj.CoreCompileInputs.cache
+D:\.NET-project\.NET-Calismalar\Alan-hesapla\Alan-hesapla\obj\Debug\net6.0\Alan-hesapla.dll
+D:\.NET-project\.NET-Calismalar\Alan-hesapla\Alan-hesapla\obj\Debug\net6.0\refint\Alan-hesapla.dll
+D:\.NET-project\.NET-Calismalar\Alan-hesapla\Alan-hesapla\obj\Debug\net6.0\Alan-hesapla.pdb
+D:\.NET-project\.NET-Calismalar\Alan-hesapla\Alan-hesapla\obj\Debug\net6.0\Alan-hesapla.genruntimeconfig.cache
+D:\.NET-project\.NET-Calismalar\Alan-hesapla\Alan-hesapla\obj\Debug\net6.0\ref\Alan-hesapla.dll
