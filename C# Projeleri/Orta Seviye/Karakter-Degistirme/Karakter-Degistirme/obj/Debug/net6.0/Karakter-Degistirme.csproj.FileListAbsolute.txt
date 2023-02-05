@@ -1,0 +1,15 @@
+D:\.NET-project\.NET-Calismalar\Karakter-Degistirme\Karakter-Degistirme\bin\Debug\net6.0\Karakter-Degistirme.exe
+D:\.NET-project\.NET-Calismalar\Karakter-Degistirme\Karakter-Degistirme\bin\Debug\net6.0\Karakter-Degistirme.deps.json
+D:\.NET-project\.NET-Calismalar\Karakter-Degistirme\Karakter-Degistirme\bin\Debug\net6.0\Karakter-Degistirme.runtimeconfig.json
+D:\.NET-project\.NET-Calismalar\Karakter-Degistirme\Karakter-Degistirme\bin\Debug\net6.0\Karakter-Degistirme.dll
+D:\.NET-project\.NET-Calismalar\Karakter-Degistirme\Karakter-Degistirme\bin\Debug\net6.0\Karakter-Degistirme.pdb
+D:\.NET-project\.NET-Calismalar\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.csproj.AssemblyReference.cache
+D:\.NET-project\.NET-Calismalar\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-project\.NET-Calismalar\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.AssemblyInfoInputs.cache
+D:\.NET-project\.NET-Calismalar\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.AssemblyInfo.cs
+D:\.NET-project\.NET-Calismalar\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.csproj.CoreCompileInputs.cache
+D:\.NET-project\.NET-Calismalar\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.dll
+D:\.NET-project\.NET-Calismalar\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\refint\Karakter-Degistirme.dll
+D:\.NET-project\.NET-Calismalar\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.pdb
+D:\.NET-project\.NET-Calismalar\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.genruntimeconfig.cache
+D:\.NET-project\.NET-Calismalar\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\ref\Karakter-Degistirme.dll
