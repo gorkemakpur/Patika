@@ -1,0 +1,15 @@
+D:\.NET-project\.NET-Calismalar\integer-ikililerin-toplami\integer-ikililerin-toplami\bin\Debug\net6.0\integer-ikililerin-toplami.exe
+D:\.NET-project\.NET-Calismalar\integer-ikililerin-toplami\integer-ikililerin-toplami\bin\Debug\net6.0\integer-ikililerin-toplami.deps.json
+D:\.NET-project\.NET-Calismalar\integer-ikililerin-toplami\integer-ikililerin-toplami\bin\Debug\net6.0\integer-ikililerin-toplami.runtimeconfig.json
+D:\.NET-project\.NET-Calismalar\integer-ikililerin-toplami\integer-ikililerin-toplami\bin\Debug\net6.0\integer-ikililerin-toplami.dll
+D:\.NET-project\.NET-Calismalar\integer-ikililerin-toplami\integer-ikililerin-toplami\bin\Debug\net6.0\integer-ikililerin-toplami.pdb
+D:\.NET-project\.NET-Calismalar\integer-ikililerin-toplami\integer-ikililerin-toplami\obj\Debug\net6.0\integer-ikililerin-toplami.csproj.AssemblyReference.cache
+D:\.NET-project\.NET-Calismalar\integer-ikililerin-toplami\integer-ikililerin-toplami\obj\Debug\net6.0\integer-ikililerin-toplami.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-project\.NET-Calismalar\integer-ikililerin-toplami\integer-ikililerin-toplami\obj\Debug\net6.0\integer-ikililerin-toplami.AssemblyInfoInputs.cache
+D:\.NET-project\.NET-Calismalar\integer-ikililerin-toplami\integer-ikililerin-toplami\obj\Debug\net6.0\integer-ikililerin-toplami.AssemblyInfo.cs
+D:\.NET-project\.NET-Calismalar\integer-ikililerin-toplami\integer-ikililerin-toplami\obj\Debug\net6.0\integer-ikililerin-toplami.csproj.CoreCompileInputs.cache
+D:\.NET-project\.NET-Calismalar\integer-ikililerin-toplami\integer-ikililerin-toplami\obj\Debug\net6.0\integer-ikililerin-toplami.dll
+D:\.NET-project\.NET-Calismalar\integer-ikililerin-toplami\integer-ikililerin-toplami\obj\Debug\net6.0\refint\integer-ikililerin-toplami.dll
+D:\.NET-project\.NET-Calismalar\integer-ikililerin-toplami\integer-ikililerin-toplami\obj\Debug\net6.0\integer-ikililerin-toplami.pdb
+D:\.NET-project\.NET-Calismalar\integer-ikililerin-toplami\integer-ikililerin-toplami\obj\Debug\net6.0\integer-ikililerin-toplami.genruntimeconfig.cache
+D:\.NET-project\.NET-Calismalar\integer-ikililerin-toplami\integer-ikililerin-toplami\obj\Debug\net6.0\ref\integer-ikililerin-toplami.dll
