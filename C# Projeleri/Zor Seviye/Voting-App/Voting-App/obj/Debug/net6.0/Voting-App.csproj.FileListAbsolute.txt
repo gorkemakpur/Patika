@@ -1,0 +1,15 @@
+D:\.NET-project\.NET-Calismalar\Voting-App\Voting-App\bin\Debug\net6.0\Voting-App.exe
+D:\.NET-project\.NET-Calismalar\Voting-App\Voting-App\bin\Debug\net6.0\Voting-App.deps.json
+D:\.NET-project\.NET-Calismalar\Voting-App\Voting-App\bin\Debug\net6.0\Voting-App.runtimeconfig.json
+D:\.NET-project\.NET-Calismalar\Voting-App\Voting-App\bin\Debug\net6.0\Voting-App.dll
+D:\.NET-project\.NET-Calismalar\Voting-App\Voting-App\bin\Debug\net6.0\Voting-App.pdb
+D:\.NET-project\.NET-Calismalar\Voting-App\Voting-App\obj\Debug\net6.0\Voting-App.csproj.AssemblyReference.cache
+D:\.NET-project\.NET-Calismalar\Voting-App\Voting-App\obj\Debug\net6.0\Voting-App.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-project\.NET-Calismalar\Voting-App\Voting-App\obj\Debug\net6.0\Voting-App.AssemblyInfoInputs.cache
+D:\.NET-project\.NET-Calismalar\Voting-App\Voting-App\obj\Debug\net6.0\Voting-App.AssemblyInfo.cs
+D:\.NET-project\.NET-Calismalar\Voting-App\Voting-App\obj\Debug\net6.0\Voting-App.csproj.CoreCompileInputs.cache
+D:\.NET-project\.NET-Calismalar\Voting-App\Voting-App\obj\Debug\net6.0\Voting-App.dll
+D:\.NET-project\.NET-Calismalar\Voting-App\Voting-App\obj\Debug\net6.0\refint\Voting-App.dll
+D:\.NET-project\.NET-Calismalar\Voting-App\Voting-App\obj\Debug\net6.0\Voting-App.pdb
+D:\.NET-project\.NET-Calismalar\Voting-App\Voting-App\obj\Debug\net6.0\Voting-App.genruntimeconfig.cache
+D:\.NET-project\.NET-Calismalar\Voting-App\Voting-App\obj\Debug\net6.0\ref\Voting-App.dll
