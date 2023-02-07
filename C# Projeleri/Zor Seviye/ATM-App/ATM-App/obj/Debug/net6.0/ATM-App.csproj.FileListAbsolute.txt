@@ -1,0 +1,15 @@
+D:\.NET-project\.NET-Calismalar\ATM-App\ATM-App\bin\Debug\net6.0\ATM-App.exe
+D:\.NET-project\.NET-Calismalar\ATM-App\ATM-App\bin\Debug\net6.0\ATM-App.deps.json
+D:\.NET-project\.NET-Calismalar\ATM-App\ATM-App\bin\Debug\net6.0\ATM-App.runtimeconfig.json
+D:\.NET-project\.NET-Calismalar\ATM-App\ATM-App\bin\Debug\net6.0\ATM-App.dll
+D:\.NET-project\.NET-Calismalar\ATM-App\ATM-App\bin\Debug\net6.0\ATM-App.pdb
+D:\.NET-project\.NET-Calismalar\ATM-App\ATM-App\obj\Debug\net6.0\ATM-App.csproj.AssemblyReference.cache
+D:\.NET-project\.NET-Calismalar\ATM-App\ATM-App\obj\Debug\net6.0\ATM-App.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-project\.NET-Calismalar\ATM-App\ATM-App\obj\Debug\net6.0\ATM-App.AssemblyInfoInputs.cache
+D:\.NET-project\.NET-Calismalar\ATM-App\ATM-App\obj\Debug\net6.0\ATM-App.AssemblyInfo.cs
+D:\.NET-project\.NET-Calismalar\ATM-App\ATM-App\obj\Debug\net6.0\ATM-App.csproj.CoreCompileInputs.cache
+D:\.NET-project\.NET-Calismalar\ATM-App\ATM-App\obj\Debug\net6.0\ATM-App.dll
+D:\.NET-project\.NET-Calismalar\ATM-App\ATM-App\obj\Debug\net6.0\refint\ATM-App.dll
+D:\.NET-project\.NET-Calismalar\ATM-App\ATM-App\obj\Debug\net6.0\ATM-App.pdb
+D:\.NET-project\.NET-Calismalar\ATM-App\ATM-App\obj\Debug\net6.0\ATM-App.genruntimeconfig.cache
+D:\.NET-project\.NET-Calismalar\ATM-App\ATM-App\obj\Debug\net6.0\ref\ATM-App.dll
