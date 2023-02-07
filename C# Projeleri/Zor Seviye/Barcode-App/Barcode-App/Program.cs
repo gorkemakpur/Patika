@@ -6,8 +6,13 @@ namespace Barcode_App
     {
         static void Main(string[] args)
         {
+            Barcode barcode = Process.CreateAndSaveBarcode("111");
+            Console.WriteLine(Process.ReadBarcode(barcode));
 
-            Barcode barcode = Process.CreateAndSaveBarcode("777");
+            Barcode barcode = Process.CreateAndSaveBarcode("222");
+            Console.WriteLine(Process.ReadBarcode(barcode));
+
+            Barcode barcode = Process.CreateAndSaveBarcode("333");
             Console.WriteLine(Process.ReadBarcode(barcode));
         }
     }
